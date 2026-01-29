@@ -16,7 +16,7 @@ Its design goal is not to beautify the writing process, but to faithfully record
   • Replay of long document writing process
 
 
-
+<img width="470" height="730" alt="image" src="https://github.com/user-attachments/assets/521e4c79-ddd6-41c6-8809-71d0427ac5cb" />
 
 ✨ Features
 ======
