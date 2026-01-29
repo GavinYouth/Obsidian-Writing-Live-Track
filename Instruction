@@ -1,0 +1,16 @@
+How to install to Obsidian manually.
+==
+
+1. Open Obsidian Desktop
+
+2. Setting
+    -- Community Plugins
+        -- Installed Plugins (click the small file icon)
+
+3. Located to the `Plugins` folder
+
+4. Drag the `writing-live-track.zip` into the folder
+
+5. Unzip the file
+
+6. Restart the whole Obsidian
